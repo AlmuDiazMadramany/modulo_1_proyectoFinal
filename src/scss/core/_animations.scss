@@ -1,0 +1,8 @@
+@keyframes moveup {
+    0%{
+        transform: translate(-50%, -170%);
+    }
+    100% {
+        transform: translate(-50%, -190%);
+    }
+}
